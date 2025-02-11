@@ -40,3 +40,6 @@ Here’s a breakdown of the required packages for this project and how to instal
 5. scikit-learn (sklearn) → pip install scikit-learn (For data preprocessing and evaluation metrics)
 6. mpl_toolkits (Axes3D) → Included in matplotlib, no separate installation required.
 7. Tokenizer & pad_sequences → Included in tensorflow.keras.preprocessing.text, no separate installation required.
+
+
+**This project is licensed under GPL 3.0. Unauthorized copying, modification, or redistribution without proper attribution is prohibited. Legal action may be taken against violators.**
