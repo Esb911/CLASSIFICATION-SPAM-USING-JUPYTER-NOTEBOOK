@@ -1,4 +1,4 @@
-#**CLASSIFICATION SPAM USING JUPYTER NOTEBOOK**
+# **CLASSIFICATION SPAM USING JUPYTER NOTEBOOK**
 
 
 In today's digital era, spam messages are everywhere, from emails to text messages, making it crucial to filter out unwanted content efficiently. This project utilizes deep learning with LSTM (Long Short-Term Memory) to classify messages as spam or ham (not spam) using Jupyter Notebook.
